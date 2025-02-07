@@ -3,6 +3,31 @@ Code for a very brief instruction session on physcial computing with CircuitPyth
 
 ## What You Will Need
 
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [CircuitPython V2 extension for VSCode](https://marketplace.visualstudio.com/items?itemName=wmerkens.vscode-circuitpython-v2)
+- [Adafruit Proximity Trinkey](https://www.adafruit.com/product/5022)
+
+If your computer does not have USB-A ports, you will also need a [USB-A to USB-C adapter](https://www.adafruit.com/product/5030).
+
+## Getting Set Up
+
+Before we get started, you will need to instal VSCode and the CircuitPython V2 extension. VSCode is a programming-friendly text editor that can act as an integrated development environment (IDE). With the CircuitPython V2 extension installed, VSCode will have a number of tools that make it simpler to work with a CircuitPython development board like the Proximity Trinkey.
+
+### Aside: Other CircuitPython IDEs
+
+There are a few beginner IDEs for Python out there, that have streamlined interfaces meant to help focus on the task of working with Python. A few of these even have support for CircuitPython and it's progenitor, MicroPython.
+
+Here are a couple that I like:
+
+- [Thonny](https://thonny.org/)
+- [Mu](https://codewith.mu/)
+
+I use Thonny quite a bit in when developing and it is my usual first choice for teaching physical computing with CircuitPython. I choose not to use it for this course for a couple of reasons. I am teaching this in a professional environment where many of the attedees of this session may already be programmers and are likely to have VSCode.
+
+Thonny is great, but it does some tricks when talking to the board that make code execution simpler for development, but doesn't play that well with the relatively low-power SAM21 microcontroller at the heart of the Proximity Trinkey. 
+
+With these factors in mind, the closer-to-the-metal VSCode + CircuitPython V2 extension is a slightly better choice for this class. That said, I really recommend getting Thonny or Mu (or both!). They will help you learn and code CircuitPython.
+
 ## Hello, World
 
 It's a long-standing tradition to begin learning any new programming language with a little program called **Hello, World**. 
@@ -135,6 +160,9 @@ There are a lot of microcontrollers out there and over the past couple of decade
 CircuitPython is a nice evolution of these tools for a few reasons. One, it uses Python, which is great language for all levels of coders. Two, CircuitPython is *interpreted*, which means that code code be written and run immediately. This means you do not have to do the write-compile-upload-test loop that a *compiled* toolset like Arduino requires. This makes working with the development board simpler and getting up to speed faster. Lastly, CircuitPython *usually* support native USB access, which means that the development board shows on like a tiny thumd drive when plugged in to a computer. You can drag and drop files on the drive or edit them direcly. This means you don't need any fancy custom tools to program a microcontroller—a decent text editor will do the trick.
 
 Another nice thing about CircuitPython is the REPL, or Read-Evaluate-Print-Loop, that lets you write code line by line and have it execute immediately. This is a great way to test out code or see errors.
+
+## Appendix A: Installing CircuitPython on Your Proximity Trinkey
+
 
 ## Additional References
 

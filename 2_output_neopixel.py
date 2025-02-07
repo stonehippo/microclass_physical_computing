@@ -4,7 +4,7 @@ import board
 from neopixel import NeoPixel
 from rainbowio import colorwheel
 
-pixels = NeoPixel(board.NEOPIXEL, 2, brightness=0)
+pixels = NeoPixel(board.NEOPIXEL, 2, brightness=0.4)
 
 while True:
 	for value in range(256):

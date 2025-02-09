@@ -71,3 +71,5 @@ But if you look closely, there's something new here. Inside of the `print()` fun
 In this case, that will be the proximity reported by the sensor, which can be from 0-255, with 0 meaning nothing is detected, 255 meaning something is more-or-less touching the sensor, and values in between giving as a relative measure.
 
 The format string is a nice way for us to format data when we output it to the console.
+
+Now that we have worked through some outputs and inputs, lets [bring it all together](../5_integrating_inputs_and_outputs/README.md).

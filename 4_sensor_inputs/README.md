@@ -72,4 +72,4 @@ In this case, that will be the proximity reported by the sensor, which can be fr
 
 The format string is a nice way for us to format data when we output it to the console.
 
-Now that we have worked through some outputs and inputs, lets [bring it all together](../5_integrating_inputs_and_outputs/README.md).
+Now that we have worked through some outputs and inputs, we will [bring it all together](../5_integrating_inputs_and_outputs/README.md).

@@ -13,3 +13,5 @@ Even with this simple program, we can learn a few things about Python. First, it
 Second, Python strives to keep it's structure minimal and clean. There's no need for special end of line characters.
 
 Third, **Hello, World** shows us the invocation of a *function*, in this case `print()`. This function takes one or more *arguments* and the prints the to console, or standard output. In this case, we're giving it the argument '"Hello, world!", which is *string* of text. `print()` can handle other types of data, too, but we won't worry about that right now.
+
+Now that you are you have said to—and with—Python, it is time to [start getting physical](../2_basic_outputs/README.md)! Or perhaps you would like a [little more info on CircuitPython](../interlude/README.md)?

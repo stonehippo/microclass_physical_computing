@@ -124,3 +124,9 @@ print("This is code that will be run") # This is a comment that will not
 ## Wrapping Up
 
 Armed with everthing we have covered up to know, I hope that you have a pretty good understanding of what this code is going to do. Give it a run on the Proxmity Trinkey and have some fun!
+
+And after that, what's next? Check out [Appendix C](../README.md#appendix-c-additional-resources) for some places to look for more about CircuitPython and physical computing.
+
+## Credit Where Credit Is Due
+
+The `map_range()` function presented here was excerpted from the [Adafruit SimpleIO Library](https://docs.circuitpython.org/projects/simpleio/en/latest/_modules/simpleio.html#map_range), a module containing several helper functions. SimpleIO is easy enough to install, but I avoided doing so on the space and memory limited Proximity Trinkey.

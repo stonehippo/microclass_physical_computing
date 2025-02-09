@@ -101,3 +101,5 @@ Alright, so our little program is going to do something 256 times. That somethin
 The last bit of code here calls `time.sleep()` and tells the microcontroller to stop doing anything much for the next 0.05 seconds, or 50 milliseconds.
 
 When we run this code on our board, we should see our NeoPixels strobe through a lovely rainbow of colors.
+
+Now that we have looked at outputs, maybe we should [work on some inputs](../3_basic_inputs/README.md).

@@ -55,3 +55,5 @@ We repeat this same action for the second sensor, then tell the microcontroller 
 That's all there is to it. We've set up a driver for a couple of sensors, and we're reading the value from those sensors forever. This is about as simple as input gets.
 
 With other hardware, you might have a button or switch to read, but the code would be largely the same. We would need a different driver, but for most sensors where there is a clear on/off, binary state, we will just read its value and act accordingly.
+
+We have a simple input set up, but now [it is time for a more advanced sensor input](../4_sensor_inputs/README.md).

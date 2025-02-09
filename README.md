@@ -20,6 +20,9 @@ I hope that you enjoy this microclass and find it useful. If you have any questi
 - [Input: Using Capacitive Touch Sensing](/3_basic_inputs/README.md)
 - [Input: Reading A Distance Sensor](/4_sensor_inputs/README.md)
 - [Integration: Bring It All Together](/5_integrating_inputs_and_outputs/README.md)
+- [Appendix A: Other CircuitPython IDEs](#appendix-a-other-circuitpython-ides)
+- [Appendix B: Installing CircuitPython On Your Proximity Trinkey](#appendix-b-installing-circuitpython-on-your-proximity-trinkey)
+- [Appendix C: Addtional Resources](#appendix--additional-resources)
 
 ## What You Will Need
 
@@ -69,7 +72,7 @@ The Adafruit Proximity Trinkey ships with a pre-installed example, built using A
 - [Installing CircuitPython on the Proximity Trinkey](https://learn.adafruit.com/adafruit-proximity-trinkey/circuitpython)
 - [The latest CircuitPython firmware for the Proximity Trinkey](https://circuitpython.org/board/adafruit_proxlight_trinkey_m0/)
 
-## Additional Resources
+## Appendix C: Additional Resources
 
 If you want to go further, here are a few resources that you can use to learn more about physical computing with CircuitPython.
 

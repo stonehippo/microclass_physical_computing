@@ -10,5 +10,5 @@ apds.proximity_gain = 2
 apds.enable_proximity = True
 
 while True:
-	print(apds.proximity)
+	print(f"Distance signal: {apds.proximity}")
 	time.sleep(0.25)

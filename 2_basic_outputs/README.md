@@ -1,8 +1,8 @@
 # Output: Using Physical Computing to Effect The World
 
-Now that we've gotten our first working programs, we're going to jump in a bit deeper. One of the main ideas of physical computing is that it bridges the interface of digital systems, i.e. computers, with the physcial world. One way that it can do that is through mechanisms that have an effect on the state of the world. There many such mechanisms, such as motors, actuators, and other mechanical devices. We are going to work with one of the more common first output devices, light emitting diodes, or LEDS.
+Now that we've gotten our first working program, we're going to jump in a bit deeper. One of the main ideas of physical computing is that it bridges the interface of digital systems, i.e. computers, with the physcial world. One way that it can do that is through mechanisms that have an effect on the state of the world. There many such mechanisms, such as motors, actuators, and other mechanical devices. We are going to work with one of the more common first output devices, light emitting diodes, or LEDS.
 
-The LEDs on the Proximity Trinkey that we are usign for this course are a speciel kind on smart device, sometimes called a NeoPixel. They are a bit more complex than a run of the mill LED, for two reason. First, they are really three seperate LEDs—one red, one green, and one blue—all packaged together. Second, they are programmable, which means that we adjust the outputs of the three LEDs to make many colors!
+The LEDs on the Proximity Trinkey that we are using for this course are a special kind on smart device, sometimes called a NeoPixel. They are a bit more complex than a run of the mill LED, for two reason. First, they are really three seperate LEDs—one red, one green, and one blue—all packaged together. Second, they are programmable, which means that we adjust the outputs of the three LEDs to make many colors!
 
 Let's look at a program that will let us make rainbows using the two NeoPixels on the Proximity Trinkey. Take a look at the following program:
 

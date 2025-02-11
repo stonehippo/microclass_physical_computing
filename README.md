@@ -2,6 +2,8 @@
 
 What's more fun than programming software? Programming software that interacts with the real world!
 
+![alt text](physical_computing.png)
+
 This is microclass is a very brief introduction to physical computing, a domain of application development the bridges the digital and physical worlds. In this microclass, we will introduce some of the basic concepts of physical computing, especially working with inputs (sensing the physical world) and outputs (effecting the physical world). We'll walk through several example, building up a little working knowledge of the [CircuitPython](https://circuitpython.org) programming language, a development board hardware, and a few programming concepts.
 
 This microclass does not assume that you have a lot of software development experience, or any at all. While this is not an in depth coding tutorial, we will try to highlight so of the main things you need to know. And at the end of the course, there are some resources to help you dig and go deeper, if you wish.

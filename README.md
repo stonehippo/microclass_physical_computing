@@ -97,7 +97,7 @@ The Feather RP2040 is built around the [RP2040 microcontroller](https://www.rasp
 
 The code portions of this microclass are available under the MIT License; see [LICENSE](/LICENSE) for details.
 
-The non-code portions of this content, i.e., "the course material", includig all non-code text, is covered by the Creative Commons Attributions Share Alike 4.0 International license (CC-BY-4.0); see [CONTENT_LICENSE](/CONTENT_LICENSE) for details.
+The non-code portions of this content, i.e., "the course material", includig all non-code text, is covered by the Creative Commons Attributions Share Alike 4.0 International license (CC-BY-SA-4.0); see [CONTENT_LICENSE](/CONTENT_LICENSE) for details.
 
 -----
 

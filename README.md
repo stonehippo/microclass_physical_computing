@@ -93,6 +93,12 @@ Lastly, I choose the Proxmity Trinkey for this class because it is simple, has i
 
 The Feather RP2040 is built around the [RP2040 microcontroller](https://www.raspberrypi.com/products/rp2040/), designed by Raspberry Pi. It has decent speed, peripherals, and is not too expensive. Adafruit has built a nice selection of add-on boards for their Feather line, known as FeatherWings, the can expand the functionality of the development board. And they also have several variants of the basic Feather RP2040 for specific uses. One of my favorites is the [Feather RP2040 PropMaker](https://www.adafruit.com/product/5768), which is set up for lots of fun outputs and inputs, including audio
 
+## License
+
+The code portions of this microclass are available under the MIT License; see [LICENSE](/LICENSE) for details.
+
+The non-code portions of this content, i.e., "the course material", includig all non-code text, is covered by the Creative Commons Attributions Share Alike 4.0 International license (CC-BY-4.0); see [CONTENT_LICENSE](/CONTENT_LICENSE) for details.
+
 -----
 
 Microclass: Physical Computing copyright &copy; 2025 George White

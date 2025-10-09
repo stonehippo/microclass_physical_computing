@@ -61,7 +61,7 @@ Here are a couple that I like:
 - [Thonny](https://thonny.org/)
 - [Mu](https://codewith.mu/)
 
-I use Thonny quite a bit in when developing and it is my usual first choice for teaching physical computing with CircuitPython. I choose not to use it for this course for a couple of reasons. I am teaching this in a professional environment where many of the attedees of this session may already be programmers and are likely to have VSCode.
+I use Thonny quite a bit when developing prototypes and it is my usual first choice for teaching physical computing with CircuitPython. I choose not to use it for this course for a couple of reasons. I am teaching this in a professional environment where many of the attedees of this session may already be programmers and are likely to have VSCode.
 
 Thonny is great, but it does some tricks when talking to the board that make code execution simpler for development, but doesn't play that well with the relatively low-power SAM21 microcontroller at the heart of the Proximity Trinkey. 
 

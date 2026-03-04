@@ -38,7 +38,7 @@ If your computer does not have USB-A ports, you will also need a [USB-A to USB-C
 
 ### Installing Visual Studio Code
 
-Before we get started, you will need to instal VSCode and the CircuitPython V2 extension. VSCode is a programming-friendly text editor that can act as an integrated development environment (IDE). With the CircuitPython V2 extension installed, VSCode will have a number of tools that make it simpler to work with a CircuitPython development board like the Proximity Trinkey.
+Before we get started, you will need to install VSCode and the CircuitPython V2 extension. VSCode is a programming-friendly text editor that can act as an integrated development environment (IDE). With the CircuitPython V2 extension installed, VSCode will have a number of tools that make it simpler to work with a CircuitPython development board like the Proximity Trinkey.
 
 ### Plugging In Your Development Board
 
@@ -54,22 +54,22 @@ With VSCode installed and the Proximity Trinkey plugged in, it is time to [get s
 
 ## Appendix A: Other CircuitPython IDEs
 
-There are a few beginner IDEs for Python out there, that have streamlined interfaces meant to help focus on the task of working with Python. A few of these even have support for CircuitPython and it's progenitor, MicroPython.
+There are a few beginner IDEs for Python out there that have streamlined interfaces meant to help focus on the task of working with Python. A few of these even have support for CircuitPython and its progenitor, MicroPython.
 
 Here are a couple that I like:
 
 - [Thonny](https://thonny.org/)
-- [Mu](https://codewith.mu/)
+- [Mu](https://codewith.mu/) - sadly, Mu is no longer maintained. It may still work, but it will not be getting further updates.
 
-I use Thonny quite a bit when developing prototypes and it is my usual first choice for teaching physical computing with CircuitPython. I choose not to use it for this course for a couple of reasons. I am teaching this in a professional environment where many of the attedees of this session may already be programmers and are likely to have VSCode.
+I use Thonny quite a bit when developing prototypes and it is my usual first choice for teaching physical computing with CircuitPython. I chose not to use it for this course for a couple of reasons. I am teaching this in a professional environment where many of the attedees of this session may already be programmers and are likely to have VSCode.
 
 Thonny is great, but it does some tricks when talking to the board that make code execution simpler for development, but doesn't play that well with the relatively low-power SAM21 microcontroller at the heart of the Proximity Trinkey. 
 
-With these factors in mind, the closer-to-the-metal VSCode + CircuitPython V2 extension is a slightly better choice for this class. That said, I really recommend getting Thonny or Mu (or both!). They will help you learn and code CircuitPython.
+With these factors in mind, the closer-to-the-metal VSCode + CircuitPython V2 extension is a slightly better choice for this class. That said, I really recommend getting Thonny or Mu (or both!). They can help you learn to code CircuitPython.
 
 ## Appendix B: Installing CircuitPython on Your Proximity Trinkey
 
-The Adafruit Proximity Trinkey ships with a pre-installed example, built using Arduino. To use that development board, you need to install CircuitPython on it. Fortunately, this is pretty easy to do.
+The Adafruit Proximity Trinkey ships with a pre-installed example, built using Arduino. To use that development board with this class, you need to install CircuitPython on it. Fortunately, this is easy to do.
 
 - [Installing CircuitPython on the Proximity Trinkey](https://learn.adafruit.com/adafruit-proximity-trinkey/circuitpython)
 - [The latest CircuitPython firmware for the Proximity Trinkey](https://circuitpython.org/board/adafruit_proxlight_trinkey_m0/)
